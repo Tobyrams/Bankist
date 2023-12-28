@@ -4,7 +4,7 @@
 
 This is a website that I coded along during a JavaScript course with [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/). 
 The website  uses advanced DOM concepts and event listiners to achieve fancy hovers, smooth scrolling, scroll animations, page navigations, tabbed components, menu fade animations, lazy image loading and slider components.
-[Bankist Website](https://tobyrams.github.io/Bankist/)
+[Bankist Website](https://tobyrams.github.io/Bankist/) **(Not yet responsive on Mobile)**
  ## Features
 
  - **Button Scrolling:**  When user clicks 'learn more' they will scrool into the view of the features section.
