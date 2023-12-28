@@ -15,9 +15,7 @@ The website  uses advanced DOM concepts and event listiners to achieve fancy hov
  - **Slider Component** This is the component that has the 'user' reviews about the bank application
 
 ### Website Screenshot:
-
-![Bankist-When-Banking-meets-Minimalist](https://github.com/Tobyrams/Bankist/assets/87528122/ee3e39ea-6ea4-4b35-bbe9-7cd6a46ee987)
-
+![Bankist-When-Banking-meets-Minimalist](https://github.com/Tobyrams/Bankist/assets/87528122/d208b190-a967-4200-864e-19815631e6c2)
 
 ## Languages and Tools:
 
