@@ -1,4 +1,6 @@
 # Bankist | When Banking Meets Minimal
+![icon](https://github.com/Tobyrams/Bankist/assets/87528122/2818e301-78a4-4f3c-a9db-59211bd7ec36)
+
 
 This is a website that I coded along during a JavaScript course with [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/). 
 The website  uses advanced DOM concepts and event listiners to achieve fancy hovers, smooth scrolling, scroll animations, page navigations, tabbed components, menu fade animations, lazy image loading and slider components.
@@ -13,9 +15,11 @@ The website  uses advanced DOM concepts and event listiners to achieve fancy hov
  - **Slider Component** This is the component that has the 'user' reviews about the bank application
 
 ### Website Screenshot:
-![Bankist-When-Banking-meets-Minimalist](https://github.com/Tobyrams/Bankist/assets/87528122/143aa409-65b4-4628-8c4f-d582ea79e725)
 
-### Languages and Tools:
+![Bankist-When-Banking-meets-Minimalist](https://github.com/Tobyrams/Bankist/assets/87528122/ee3e39ea-6ea4-4b35-bbe9-7cd6a46ee987)
+
+
+## Languages and Tools:
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=orange)
